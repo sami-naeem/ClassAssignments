@@ -67,8 +67,7 @@ d’être for Plaid).
 
 
 Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
-
 The company provides an API for their customer data, whereas Banks do not provide an API since there is no financial incentive or regulatory. 
 
 What is the prognosis for this company? Where do they expect to be in the future?
-
+The company is in a "grow or die situaton". Best put by a recent Forbes article "PLaid's founders know that they need to expand the uses of Plaid if they want to be a company larger than their predecessors". Most likely, the company has a bright future ahead of it since it is offering a service that is not being offered by other fintech companies.  
