@@ -55,3 +55,11 @@ disruptors, and this article explains more clearly than the Plaid website what P
 nking- login-information-safe-to-use (StackExchange page discussing Plaid’s security model. It
 notes that banks themselves do not provide API’s to access customer data, which is the raison
 d’être for Plaid).
+
+
+Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
+
+The company provides an API for their customer data, whereas Banks do not provide an API since there is no financial incentive or regulatory. 
+
+What is the prognosis for this company? Where do they expect to be in the future?
+
