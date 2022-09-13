@@ -17,6 +17,15 @@ Plaid is in the early stages of using this data to help companies make better of
 are just getting into data science.
 
 
+    * What is the background of your company? What do they do? Who are their competitors?:
+    Plaid is a software company that provides API’s for application software to communicate with banks about customer accounts via language agnostic JSON. Complicating such communications is the need to deal with identity verification, various kinds of error conditions, and the possibility that the same customer might have multiple accounts that need to be accessed simultaneously for aggregate balances, etc. Banks have much more data about customers than most of us realize, and the Plaid API can get it. Plaid can retrieve such things as the geolocation data for a given transaction and render it into intelligible form. As an example of the latter activity, called “cleaning”, the code “SBXUSQ0112x” would be translated as “Starbucks Coffee, 41 Union Square, New York, New York in New York City”. The Plaid API can also retrieve the bank’s estimates of their customer incomes! Plaid is in the early stages of using this data to help companies make better offers to customers, so they are just getting into data science.
+
+    * Plaid's competitors and similar companies include Galileo Financial Technologies, Akoya, Finicity, Synapse, MX, N26, Codat, Xignite and Varo Money.
+
+    * How does this company use technology to their advantage? Why are they considered a FinTech company?:
+    Banks have much more data about customers than most of us realize, and the Plaid API can get it. Plaid can retrieve such things as the geolocation data for a given transaction and render it into intelligible form. Because banks are within the finance industry and Plaid's API's are extensively used within banking, this makes Plaid a FinTech company.
+
+
 ### Plaid Case Study Proposal
 * Why This Matters
 Banks do not provide an API for their customer data because there is no financial incentive or regulatory
